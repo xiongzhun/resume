@@ -92,7 +92,7 @@
         "作为创始人兼唯一工程师，写了所有代码，跑了无数用户调研，帖了满校的海报",
         "分为桌面版（`http://ishuxun.cn`）和微信版（微信号 `ishuxun` ）",
         "后端采用 LeanCloud `BaaS` 服务,使用 `Node.js` 开发后端",
-        "前端微信版使用 `Ionic` 移动 HTML5 框架，桌面版使用 Semantic-UI 前端框架，都采用了 AngularJS ",
+        "前端微信版使用 `Ionic` 移动 HTML5 框架，桌面版使用 ｀Bootstrap｀ 前端框架，都采用了 ｀AngularJS｀ ",
         "为了提升微信端的用户体验，把`微信开发平台`提供的接口都用了个遍"
       ],
       "stack": [
@@ -118,22 +118,6 @@
         "作为项目唯一工程师，写了所有代码以及部署，运维",
         "后端采用 `J2EE` 的 `SHH` 框架，前端采用 `Semantic-UI` 框架和模版引擎 `Handlebars`",
         "响应式布局，可同时在微信和桌面电脑达到良好的浏览体验"
-      ],
-      "stack": [
-        "J2EE",
-        "Semantic-UI",
-        "响应式布局"
-      ],
-      "compatibility": "IE9+"
-    },
-    {
-      "type": "project",
-      "techtype": "frontend",
-      "project_type": "personal",
-      "name": "JustJson",
-      "source": "https://github.com/gwuhaolin/JustJson",
-      "description": [
-        "一个可以在 Swift 里像在 JavaScript 一样操作JSON的微型库"
       ],
       "stack": [
         "J2EE",
@@ -190,7 +174,7 @@
           "summary": "前端第三方库/框架",
           "description": [
             "使用 `AngularJS` 编写过网站，了解 `Backbone.js` 及前端 `MVC` 模型",
-            "熟悉 `jQuery` / `jQuery UI` / `Bootstrap` / `Semantic-UI` / `Ionic` 的使用、定制与扩展, 阅读过部分源代码"
+            "熟悉 `Ionic` ／ `jQuery` / `Bootstrap` / `Semantic-UI` 的使用、定制与扩展, 阅读过部分源代码"
           ]
         },
         {
@@ -229,8 +213,9 @@
       "type": "miscellaneous",
       "item": [
         "三年 `Linux/Unix` 使用经验，熟悉常用命令与配置，能编写简单的 `bash` 脚本",
+        "熟练信息抓取技术,能够使用NodeJS或Java抓取数据",
         "熟练 `Git` 版本控制工具 `Jetbrains` 系列 IDE ,使用过 `Docker` 容器进行开发部署",
-        "能够 `Markdown` 编写得体的中英文文档或论文，具备良好的技术交流能力",
+        "能够 `Markdown` 编写得体的中英文文档或论文,具备良好的技术交流能力",
         "能够使用 `Sketch` / `Illustrator` 完成简单的设计"
       ]
     }
