@@ -52,8 +52,8 @@
       "start": "2012",
       "end": "2016",
       "honor": [
-        "2013 - 2014 华大青年传媒技术总监",
-        "2014 - 2015 华大青年传媒最佳贡献奖"
+        "2013 - 2014 华大青年传媒`技术总监`",
+        "2014 - 2015 华大青年传媒`最佳贡献奖`"
       ]
     }
   ],
@@ -89,10 +89,10 @@
       "demo": "http://ishuxun.cn",
       "description": [
         "武汉地区最受大学生喜爱的二手书交易平台",
-        "作为创始人兼唯一工程师，写了所有代码，跑了无数用户调研，帖了满校的海报",
+        "作为`创始人`兼全栈工程师，写了所有代码，跑了无数用户调研，帖了满校的海报",
         "分为桌面版（`http://ishuxun.cn`）和微信版（微信号 `ishuxun` ）",
         "后端采用 LeanCloud `BaaS` 服务,使用 `Node.js` 开发后端",
-        "前端微信版使用 `Ionic` 移动 HTML5 框架，桌面版使用 ｀Bootstrap｀ 前端框架，都采用了 ｀AngularJS｀ ",
+        "前端微信版使用 `Ionic` 移动 HTML5 框架，桌面版使用 `Bootstrap` 前端框架，都采用了 `AngularJS` ",
         "为了提升微信端的用户体验，把`微信开发平台`提供的接口都用了个遍"
       ],
       "stack": [
@@ -113,7 +113,7 @@
       "source": "https://github.com/gwuhaolin/myccnu",
       "demo": "http://myccnu.wuhaolin.cn",
       "description": [
-        "华中师范大学最大微信服务平台（微信号: `myccnu` ）",
+        "华中师范大学最大微信服务平台（微信号: myccnu ）",
         "2014年3月上线,到现在已经有13000+用户",
         "作为项目唯一工程师，写了所有代码以及部署，运维",
         "后端采用 `J2EE` 的 `SHH` 框架，前端采用 `Semantic-UI` 框架和模版引擎 `Handlebars`",
@@ -203,7 +203,7 @@
           "summary": "`Java` / `J2EE`",
           "description": [
             "熟练 Java 语言基础及核心库，了解 `Java8` 新特性",
-            "使用 `Spring` / `Hibernate` 开发过J2EE网站应用, `Jersey` 开发 RESTful 服务",
+            "使用 `Spring` / `Hibernate` 开发过J2EE网站应用, `Jersey` 开发 `RESTful` 后端服务",
             "使用 `Gradle` 自动构建工具，熟练 `IntellijIDEA`"
           ]
         }
@@ -213,7 +213,7 @@
       "type": "miscellaneous",
       "item": [
         "三年 `Linux/Unix` 使用经验，熟悉常用命令与配置，能编写简单的 `bash` 脚本",
-        "熟练信息抓取技术,能够使用NodeJS或Java抓取数据",
+        "熟练`信息抓取`技术,能够使用 NodeJS 或 Java 抓取数据",
         "熟练 `Git` 版本控制工具 `Jetbrains` 系列 IDE ,使用过 `Docker` 容器进行开发部署",
         "能够 `Markdown` 编写得体的中英文文档或论文,具备良好的技术交流能力",
         "能够使用 `Sketch` / `Illustrator` 完成简单的设计"
